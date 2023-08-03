@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NUMBER GUESS</string>
+    <string name="info"> Please select number of digits.
+    Your task is to guess the number right. Also,
+    do not forget that you have ten chances to guess it right</string>
+</resources>
